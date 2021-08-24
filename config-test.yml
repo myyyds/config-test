@@ -1,3 +1,3 @@
 server:
   port: 80
-  info: config-test
+  info: master,config-test
